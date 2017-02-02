@@ -64,11 +64,6 @@ public class Robot extends IterativeRobot {
 	static ControlStick rightStick = new ControlStick(Constants.inputs.rightStick);
 	static TalonGroup leftDrive = new TalonGroup(Constants.ports.leftDrive);
 	static TalonGroup rightDrive = new TalonGroup(Constants.ports.rightDrive);
-	//static USBCamera camera = new USBCamera(Constants.ports.camera);
-	static Servo rightServo = new Servo(4);
-	static Servo leftServo = new Servo(5);
-	static Servo rightServo1 = new Servo(6);
-	static Servo leftServo1 = new Servo(7);
 	static Ultrasonic ultrasonic = new Ultrasonic(0);
 
 	@Override

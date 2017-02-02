@@ -66,7 +66,7 @@ class Distance {
 public class Ultrasonic {
 	int port;
 	AnalogInput analogInput;
-	static double voltsToFeetGlobal = 0.0093587227165699;//0.1123046725988388;
+	static double voltsToFeetGlobal = 0.0093587227165699;
 	double voltsToFeet = Ultrasonic.voltsToFeetGlobal;
 	public Ultrasonic(int port) {
 		this.port = port;
