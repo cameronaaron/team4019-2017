@@ -1,11 +1,6 @@
 package org.usfirst.frc.team4019;
 
 import edu.wpi.first.wpilibj.*;
-import edu.wpi.first.wpilibj.vision.*;
-import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import edu.wpi.first.wpilibj.vision.USBCamera;
-
-import java.awt.*;
 import java.util.ArrayList;
 
 class TalonGroup {
