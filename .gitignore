@@ -1,4 +1,5 @@
 Icon
 build/
 .idea/ 
+.gradle /
 \.DS_Store
