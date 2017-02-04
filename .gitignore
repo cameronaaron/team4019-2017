@@ -1,4 +1,13 @@
 Icon
 build/
 .idea/ 
+.gradle /
 \.DS_Store
+
+team4019-2017\.iml
+
+team4019-2017\.ipr
+
+\.gradle/3\.2\.1/taskArtifacts/
+
+team4019-2017\.iws

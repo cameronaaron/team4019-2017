@@ -2,12 +2,12 @@ plugins {
     id "java"
     id "eclipse"
     id "idea"
-    id "jaci.openrio.gradle.GradleRIO" version "latest-version"
+    id "jaci.openrio.gradle.GradleRIO" version "2017.1.1"
 }
 
 frc {
-    team = "5333"
-    robotClass = "org.usfirst.frc.team0000.Robot"
+    team = "4019"
+    robotClass = "org.usfirst.frc.team4019.Robot"
 }
 
 dependencies {
