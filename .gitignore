@@ -6,3 +6,5 @@ build/
 *.iml
 *.ipr
 *.iws
+
+\.gradle/3\.2\.1/taskArtifacts/
