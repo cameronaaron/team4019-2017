@@ -1,4 +1,5 @@
 # FIRST Robotics Team 4019 GitHub Repository
+[![CircleCI](https://circleci.com/gh/Team4019/team4019-2017.svg?style=svg)](https://circleci.com/gh/Team4019/team4019-2017)
 ## Instructions on getting the repository set up locally
 ### For Examination and deploying
 Make sure you have a version of JDK or JRE installed, you can find those [here](). Download the latest version of the repository onto your local drive. Have your robot turned on and connect to its network from your computer. Navigate to the newly downloaded directory with your terminal application of choice. Open the `build.gradle` file with your text editor of choice and find the variable named `gradlerio.team` and change its value to your team number. We are using [GradleRIO]() to build and deploy to the robot. To build and deploy, use the following commands accordingly:
